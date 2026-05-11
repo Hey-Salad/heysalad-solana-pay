@@ -1,0 +1,11 @@
+node_modules
+dist
+.npm-cache
+.wrangler
+.playwright-mcp
+*.png
+!public/*.png
+.agents
+.DS_Store
+.env
+.env.local
